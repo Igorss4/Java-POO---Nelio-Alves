@@ -12,7 +12,7 @@ public class Worker {
 	
 	private Department department;
 	private List<HourContract> contracts = new ArrayList<>();
-	
+	  
 	public Worker() {
 		
 	}
